@@ -61,7 +61,7 @@ My journey blends real-world experience with academic knowledge, and I love expl
 
 ### 🌐 Connect with me
 
-[![LinkedIn]([https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/anitaliberatore/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anita%20Liberatore-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anitaliberatore/)
 
 ---
 
