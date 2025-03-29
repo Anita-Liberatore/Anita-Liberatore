@@ -59,17 +59,9 @@ My journey blends real-world experience with academic knowledge, and I love expl
 
 ---
 
-### 📈 GitHub Stats
-
-[![Anita's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
----
-
 ### 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
+[![LinkedIn]([https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/anitaliberatore/))
 
 ---
 
